@@ -1,0 +1,1 @@
+If we didn't initialize the scores array,the array is undefined.The value will be unknown.
