@@ -1,0 +1,2 @@
+Because binary search program on page 112 don't define the "+"operator between the two iterators. So beg+end  is illegal.
+We can only use the subtraction between the two iterators.
